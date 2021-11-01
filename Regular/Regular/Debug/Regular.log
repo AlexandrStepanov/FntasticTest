@@ -1,0 +1,3 @@
+﻿  Regular.cpp
+C:\Users\Aridi\source\repos\Regular\Regular\Regular.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Regular.vcxproj -> C:\Users\Aridi\source\repos\Regular\Debug\Regular.exe
