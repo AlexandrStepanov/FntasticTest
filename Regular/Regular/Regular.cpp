@@ -56,10 +56,13 @@ void VersionOne(string s, const int len)
     }
     CoutText(s,len);
 }
+
+//вторая версия
 void VersionTwo(string s, const int len)
 {
 
 }
+// основной код
 int main()
 {
     unsigned int start_time;
